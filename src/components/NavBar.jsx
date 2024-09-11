@@ -15,7 +15,7 @@ const NavBar = () => {
           />
           {/* Título */}
           <a className="text-lg font-serif font-medium italic text-gray-800" href="#page-top">
-            La Cabaña de las Flores
+            Belixir
           </a>
         </div>
 
